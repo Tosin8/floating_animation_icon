@@ -1,16 +1,16 @@
-# floaing_animation_icon
+# floating_animation_icon
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+a bouncing love icon animation, 
 
-A few resources to get you started if this is your first Flutter project:
+the icon realistic movement can be changed by using the curve function, in tween <double> animation. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Daily Flutter Coding Challenge Day 3
+  
+  
+  ![Capture](https://user-images.githubusercontent.com/23019300/173166058-36e53851-a37a-40f7-a025-8e10b0889e47.JPG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
+
+Credit: Flutter Animation Gallery
